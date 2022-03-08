@@ -1,0 +1,23 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Because I can",
+  "main": "all-possible-pairs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IfeoluwaDavid/code-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IfeoluwaDavid/code-challenges/issues"
+  },
+  "homepage": "https://github.com/IfeoluwaDavid/code-challenges#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
