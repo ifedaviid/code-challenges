@@ -1,2 +1,2 @@
 # code-challenges
-Because I can
+Just a notebook for my leetcode solutions
